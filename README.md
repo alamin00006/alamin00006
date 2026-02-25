@@ -8,6 +8,7 @@ Friendly tech enthusiast
 ✔️ React.js  
 ✔️ Next.js  
 ✔️ Node.js
+
 ✔️ python
 ✔️ AI Agents
 ✔️ RAG
