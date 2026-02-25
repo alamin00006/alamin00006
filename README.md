@@ -5,11 +5,11 @@
 Friendly tech enthusiast
 
 ## I have a strong interest in  
-✔️ React.js  
-✔️ Next.js  
-✔️ Node.js
-✔️ python
-✔️ AI Agents
-✔️ RAG
+- ✔️ React.js  
+- ✔️ Next.js  
+- ✔️ Node.js  
+- ✔️ Python  
+- ✔️ AI Agents  
+- ✔️ RAG
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight)
