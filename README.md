@@ -1,8 +1,10 @@
 # Hi 👋 I'm Mohammad Al Amin  
 
-### Full Stack Developer | MERN Stack Developer 
+### Full Stack Developer | MERN Stack Developer  
 
-Friendly tech enthusiast
+Friendly tech enthusiast  
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 ## I have a strong interest in  
  ✔️ React.js  
@@ -10,6 +12,6 @@ Friendly tech enthusiast
  ✔️ Node.js  
  ✔️ Python  
  ✔️ AI Agents  
- ✔️ RAG
+ ✔️ RAG  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight)
