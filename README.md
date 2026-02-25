@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammad Al Amin  
 
-<!--
-**alamin00006/alamin00006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | MERN Stack Developer 
 
-Here are some ideas to get you started:
+Friendly tech enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack  
+
+### Frontend  
+- React.js  
+- Next.js  
+
+### Backend  
+- Node.js   
+- REST APIs
+
+### Databases  
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- Prisma ORM  
+
+---
+
+## 📊 GitHub Stats
+
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin00006&show_icons=true&theme=tokyonight)
