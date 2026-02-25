@@ -6,24 +6,12 @@ Friendly tech enthusiast
 
 ---
 
-## 🛠 Tech Stack  
-
-### Frontend  
+## I have a strong interest in  
 - React.js  
 - Next.js  
+- Node.js
+- python   
+- AI Agents
+- RAG
 
-### Backend  
-- Node.js   
-- REST APIs
-
-### Databases  
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-- Prisma ORM  
-
----
-
-## 📊 GitHub Stats
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin00006&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight)
