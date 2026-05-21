@@ -52,20 +52,24 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=alamin00006&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamin00006&show_icons=true&theme=tokyonight&hide_border=true)
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin00006&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌐 Connect With Me
-
-- 📧 Email: mohammad.alaminh08@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 🐙 GitHub: https://github.com/alamin00006
-- 🌍 Portfolio: https://your-portfolio-link.com
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin00006&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
 
 ---
 
