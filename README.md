@@ -1,15 +1,19 @@
-# Hi 👋 I'm Mohammad Al Amin  
+# Hi 👋 I'm Mohammad Al Amin
 
-### Full Stack Developer | MERN Stack Developer 
+### Full Stack Developer | MERN Stack Developer
 
-Friendly tech enthusiast
+Full Stack Developer with 3+ years of experience building scalable and performant web applications using React.js, Next.js, Node.js, and modern web technologies.
 
-## I have a strong interest in  
- ✔️ React.js  
- ✔️ Next.js  
- ✔️ Node.js  
- ✔️ Python  
- ✔️ AI Agents  
- ✔️ RAG
+## 💻 Tech Stack
+**Frontend:** React.js, Next.js, TypeScript, Redux, Tailwind CSS  
+**Backend:** Node.js, NestJS, Express.js, REST APIs  
+**Database:** MongoDB, PostgreSQL, MySQL  
+**Cloud & DevOps:** AWS, Docker, CI/CD Concepts, VPS Management  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight) 
+## 🚀 Interests
+- AI Agents  
+- RAG Systems  
+- Scalable Architecture  
+- Performance Optimization  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight)
