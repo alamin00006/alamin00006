@@ -5,10 +5,6 @@
 Building scalable web applications, modern user experiences, and AI-powered solutions using cutting-edge technologies.
 
 <p align="left">
-  <a href="https://github.com/alamin00006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <a href="https://linkedin.com/in/alamin1bd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
