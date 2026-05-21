@@ -9,13 +9,14 @@ Building scalable web applications, modern user experiences, and AI-powered solu
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+ <a href="https://my-portfolio-pi-indol-82.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> 
+  
   <a href="mailto:mohammad.alaminh08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://my-portfolio-pi-indol-82.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 ---
