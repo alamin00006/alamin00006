@@ -54,7 +54,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=alamin00006&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight&hide_border=true" 
     height="165"
   />
 </p>
