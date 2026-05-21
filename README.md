@@ -9,7 +9,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/alamin1bd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -17,7 +17,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="[https://your-portfolio-link.com](https://my-portfolio-pi-indol-82.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -57,20 +57,6 @@ Building scalable web applications, modern user experiences, and AI-powered solu
     src="https://github-readme-stats.vercel.app/api?username=alamin00006&show_icons=true&theme=tokyonight&hide_border=true" 
     height="165"
   />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alamin00006&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin00006&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
 </p>
 
 ---
-
-### ✨ "Code • Create • Innovate" 🚀
