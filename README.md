@@ -21,13 +21,13 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Full Stack Developer focused on scalable web applications
-- ⚡ Specialized in React.js, Next.js, Node.js & modern web technologies
-- 🤖 Passionate about AI Agents, RAG & automation systems
-- 🎯 Focused on clean architecture, performance, and user experience
-- 🌱 Currently exploring advanced AI workflows & system design
+- Full Stack Developer focused on scalable web applications
+- Specialized in React.js, Next.js, Node.js & modern web technologies
+- Passionate about AI Agents, RAG & automation systems
+- Focused on clean architecture, performance, and user experience
+- Currently exploring advanced AI workflows & system design
 
 ---
 
