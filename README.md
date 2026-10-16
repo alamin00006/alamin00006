@@ -46,7 +46,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 `Python` `AI Agents` `RAG` `Docker` `AWS` `Firebase`
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img 
