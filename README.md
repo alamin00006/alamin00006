@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohammad Al Amin
+# Hi, I'm Mohammad Al Amin
 
 ### Full Stack Developer • MERN Stack Engineer • AI Enthusiast
 
@@ -31,7 +31,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 `React.js` `Next.js` `TypeScript` `Tailwind CSS`
